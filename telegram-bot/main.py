@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 
-API_TOKEN = '7459858308:AAHDzrATTJ04FUB8J33FlLtdxja-Hw1dro0'  # Замените на токен вашего бота
-CHANNEL_ID = '@dfgsdfgfsdd'  # Замените на ID вашего канала
+API_TOKEN = '' 
+CHANNEL_ID = '' 
 
 bot = telebot.TeleBot(API_TOKEN)
 
